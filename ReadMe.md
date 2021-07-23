@@ -12,10 +12,15 @@ But, in this code, the sign of the calculated distance is considered.
 Fig.1 A snapshot to explan the method of LocalContourDeviation in the reference paper
   
   
+
+
 <img src = https://github.com/wjcheon/LocalContourDeviation_Matlab/blob/master/Local%20contour%20deviation/figure2.PNG />
-Fig.2 the phantom designed 3D CAD is imported to Monte-carlo simulation space (White: Teflon, Red: Polystyrene)  
+Fig.2 An example of singed LocalContourDeviation  
+
+  
 
 
+  
 ## Who am I 
 **Wonjoong Cheon**  
 Online CV: https://cakeresume.com/wonjoong-cheon
