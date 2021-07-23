@@ -4,11 +4,11 @@ Reference: Jenkins, Alexander, et al. "Novel methodology to assess the effect of
 
 
 ### Figure    
-<img src = https://github.com/wjcheon/Linac_NovalisTx_PhspMT_Geant4/blob/master/geometry_beam_on..jpg />{width=50%}
+<img src = https://github.com/wjcheon/LocalContourDeviation_Matlab/blob/master/Local%20contour%20deviation/figure1.PNG />{width=50%}
 Fig.1 the geometry for dosimetry in middle and exit of phantom.   
   
   
-<img src = https://github.com/wjcheon/Linac_NovalisTx_PhspMT_Geant4/blob/master/phantom_hetero_designed_cad..jpg />
+<img src = https://github.com/wjcheon/LocalContourDeviation_Matlab/blob/master/Local%20contour%20deviation/figure2.PNG />
 Fig.2 the phantom designed 3D CAD is imported to Monte-carlo simulation space (White: Teflon, Red: Polystyrene)  
 
 
